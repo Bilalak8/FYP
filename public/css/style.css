@@ -1,0 +1,18 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+*{
+    box-sizing: border-box;
+}
+html,
+body{
+    font-family: 'Rubik', sans-serif;
+}
+.nav{
+    opacity: 80%;
+}
+.footer{
+    background: linear-gradient(to right, #00093c, #2d0b00);
+    color: #fff;
+    border-top-left-radius: 100px;
+}
+
